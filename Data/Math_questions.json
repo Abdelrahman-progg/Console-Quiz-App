@@ -1,0 +1,23 @@
+[
+    {"question": "What is 2 + 2?", "options": ["A. 3", "B. 4", "C. 5", "D. 6"], "answer": "B"},
+    {"question": "What is 10 ÷ 2?", "options": ["A. 2", "B. 5", "C. 10", "D. 20"], "answer": "B"},
+    {"question": "What is 5 × 3?", "options": ["A. 8", "B. 10", "C. 15", "D. 20"], "answer": "C"},
+    {"question": "What is the square root of 16?", "options": ["A. 2", "B. 3", "C. 4", "D. 5"], "answer": "C"},
+    {"question": "What is 12 - 7?", "options": ["A. 4", "B. 5", "C. 6", "D. 7"], "answer": "B"},
+    {"question": "What is 9 + 6?", "options": ["A. 14", "B. 15", "C. 16", "D. 17"], "answer": "B"},
+    {"question": "What is 7 × 2?", "options": ["A. 12", "B. 13", "C. 14", "D. 15"], "answer": "C"},
+    {"question": "What is 20 ÷ 5?", "options": ["A. 2", "B. 3", "C. 4", "D. 5"], "answer": "C"},
+    {"question": "What is 3 squared?", "options": ["A. 6", "B. 7", "C. 8", "D. 9"], "answer": "D"},
+    {"question": "What is 100 - 75?", "options": ["A. 20", "B. 25", "C. 30", "D. 35"], "answer": "B"},
+    {"question": "What is 50 ÷ 10?", "options": ["A. 4", "B. 5", "C. 6", "D. 7"], "answer": "B"},
+    {"question": "What is 8 × 5?", "options": ["A. 30", "B. 35", "C. 40", "D. 45"], "answer": "C"},
+    {"question": "What is 9 - 4?", "options": ["A. 4", "B. 5", "C. 6", "D. 7"], "answer": "B"},
+    {"question": "What is 6 + 7?", "options": ["A. 11", "B. 12", "C. 13", "D. 14"], "answer": "C"},
+    {"question": "What is 14 ÷ 2?", "options": ["A. 6", "B. 7", "C. 8", "D. 9"], "answer": "B"},
+    {"question": "What is 3 + 5?", "options": ["A. 6", "B. 7", "C. 8", "D. 9"], "answer": "C"},
+    {"question": "What is 18 ÷ 3?", "options": ["A. 5", "B. 6", "C. 7", "D. 8"], "answer": "B"},
+    {"question": "What is 7 + 9?", "options": ["A. 15", "B. 16", "C. 17", "D. 18"], "answer": "B"},
+    {"question": "What is 4 × 4?", "options": ["A. 12", "B. 14", "C. 16", "D. 18"], "answer": "C"},
+    {"question": "What is 21 ÷ 7?", "options": ["A. 2", "B. 3", "C. 4", "D. 5"], "answer": "B"}
+  ]
+  

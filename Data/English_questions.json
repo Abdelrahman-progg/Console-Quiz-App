@@ -1,0 +1,23 @@
+[
+    {"question": "What is the plural of 'child'?", "options": ["A. Childs", "B. Children", "C. Childes", "D. Childrens"], "answer": "B"},
+    {"question": "Which word is a noun?", "options": ["A. Run", "B. Happy", "C. Book", "D. Quickly"], "answer": "C"},
+    {"question": "What’s the opposite of 'big'?", "options": ["A. Small", "B. Huge", "C. Tall", "D. Fast"], "answer": "A"},
+    {"question": "Which word is a verb?", "options": ["A. Eat", "B. Blue", "C. Slow", "D. Beautiful"], "answer": "A"},
+    {"question": "What is the past tense of 'go'?", "options": ["A. Goed", "B. Gone", "C. Went", "D. Going"], "answer": "C"},
+    {"question": "Which is a question word?", "options": ["A. How", "B. Very", "C. Every", "D. Blue"], "answer": "A"},
+    {"question": "Which is a pronoun?", "options": ["A. Run", "B. She", "C. Blue", "D. Tall"], "answer": "B"},
+    {"question": "Which word means 'quick'?", "options": ["A. Fast", "B. Slow", "C. Big", "D. Soft"], "answer": "A"},
+    {"question": "What’s the opposite of 'cold'?", "options": ["A. Hot", "B. Warm", "C. Cool", "D. Ice"], "answer": "A"},
+    {"question": "Which word is an adjective?", "options": ["A. Happy", "B. Run", "C. Swim", "D. Go"], "answer": "A"},
+    {"question": "Which is a conjunction?", "options": ["A. And", "B. Run", "C. Blue", "D. He"], "answer": "A"},
+    {"question": "Which of these is a preposition?", "options": ["A. On", "B. Go", "C. Happy", "D. She"], "answer": "A"},
+    {"question": "Which is the correct article for 'apple'?", "options": ["A. A", "B. An", "C. The", "D. Some"], "answer": "B"},
+    {"question": "What is the comparative form of 'good'?", "options": ["A. Gooder", "B. Better", "C. Best", "D. More good"], "answer": "B"},
+    {"question": "Which is a synonym for 'begin'?", "options": ["A. Start", "B. End", "C. Stop", "D. Finish"], "answer": "A"},
+    {"question": "Which word is an adverb?", "options": ["A. Quickly", "B. Blue", "C. Tall", "D. Swim"], "answer": "A"},
+    {"question": "What’s the superlative of 'fast'?", "options": ["A. Faster", "B. Fastest", "C. More fast", "D. Quick"], "answer": "B"},
+    {"question": "Which is a type of sentence?", "options": ["A. Declarative", "B. Blue", "C. Fast", "D. Run"], "answer": "A"},
+    {"question": "Which of these is a pronoun?", "options": ["A. I", "B. Run", "C. Quickly", "D. Apple"], "answer": "A"},
+    {"question": "What is the opposite of 'early'?", "options": ["A. Late", "B. Fast", "C. Soon", "D. Before"], "answer": "A"}
+  ]
+  

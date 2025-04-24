@@ -1,0 +1,23 @@
+[
+    {"question": "Who was the first President of the United States?", "options": ["A. Abraham Lincoln", "B. George Washington", "C. Thomas Jefferson", "D. John Adams"], "answer": "B"},
+    {"question": "In which year did World War II end?", "options": ["A. 1943", "B. 1944", "C. 1945", "D. 1946"], "answer": "C"},
+    {"question": "Which ancient civilization built the pyramids?", "options": ["A. Romans", "B. Greeks", "C. Egyptians", "D. Mayans"], "answer": "C"},
+    {"question": "Who discovered America in 1492?", "options": ["A. Marco Polo", "B. Christopher Columbus", "C. Ferdinand Magellan", "D. Vasco da Gama"], "answer": "B"},
+    {"question": "What wall famously divided Berlin?", "options": ["A. China Wall", "B. Berlin Wall", "C. Great Wall", "D. Freedom Wall"], "answer": "B"},
+    {"question": "Which empire was ruled by Julius Caesar?", "options": ["A. Greek Empire", "B. Roman Empire", "C. Ottoman Empire", "D. British Empire"], "answer": "B"},
+    {"question": "Who was the famous queen of Ancient Egypt?", "options": ["A. Cleopatra", "B. Elizabeth", "C. Victoria", "D. Isis"], "answer": "A"},
+    {"question": "In which country did the Industrial Revolution begin?", "options": ["A. France", "B. USA", "C. Germany", "D. Britain"], "answer": "D"},
+    {"question": "What ship sank in 1912 after hitting an iceberg?", "options": ["A. Lusitania", "B. Titanic", "C. Endeavour", "D. Olympic"], "answer": "B"},
+    {"question": "Who was the first man on the moon?", "options": ["A. Buzz Aldrin", "B. Neil Armstrong", "C. Yuri Gagarin", "D. John Glenn"], "answer": "B"},
+    {"question": "Who was the second President of the USA?", "options": ["A. George Washington", "B. John Adams", "C. Thomas Jefferson", "D. James Madison"], "answer": "B"},
+    {"question": "Which war was fought between the North and South regions in the USA?", "options": ["A. Revolutionary War", "B. Civil War", "C. World War I", "D. Vietnam War"], "answer": "B"},
+    {"question": "In which year did the Titanic sink?", "options": ["A. 1910", "B. 1912", "C. 1914", "D. 1916"], "answer": "B"},
+    {"question": "Who invented the telephone?", "options": ["A. Thomas Edison", "B. Alexander Graham Bell", "C. Nikola Tesla", "D. Henry Ford"], "answer": "B"},
+    {"question": "Which country gifted the Statue of Liberty to the USA?", "options": ["A. Britain", "B. France", "C. Canada", "D. Germany"], "answer": "B"},
+    {"question": "Who wrote the Declaration of Independence?", "options": ["A. George Washington", "B. John Adams", "C. Thomas Jefferson", "D. Benjamin Franklin"], "answer": "C"},
+    {"question": "When did World War I start?", "options": ["A. 1912", "B. 1914", "C. 1916", "D. 1918"], "answer": "B"},
+    {"question": "What empire built the Colosseum?", "options": ["A. Greek", "B. Roman", "C. Ottoman", "D. British"], "answer": "B"},
+    {"question": "Who was known as the Maid of Orléans?", "options": ["A. Cleopatra", "B. Joan of Arc", "C. Queen Victoria", "D. Mary Tudor"], "answer": "B"},
+    {"question": "Who painted the Mona Lisa?", "options": ["A. Michelangelo", "B. Raphael", "C. Leonardo da Vinci", "D. Picasso"], "answer": "C"}
+  ]
+  
