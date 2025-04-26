@@ -147,4 +147,8 @@ value_error_handler(self):
 range_handler(self, num)
     insures that the user must enter a number in the range of the questions.
 
-
+```
+### Opportunity for growth
+Add levels for each subject to test the examinee level in sertain subject.
+Add subsubjects to acknowledge the Quiz taker's weaknesses.
+Store the past quiz data for each user.
