@@ -150,6 +150,6 @@ range_handler(self, num)
 ```
 bash
 ### Opportunity for growth
--** Add levels for each subject to test the examinee level in certain subject.**
--** Add subsubjects to acknowledge the Quiz taker's weaknesses.**
--** Store the past quiz data for each user.**
+- ** Add levels for each subject to test the examinee level in certain subject.**
+- ** Add subsubjects to acknowledge the Quiz taker's weaknesses.**
+- ** Store the past quiz data for each user.**
