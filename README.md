@@ -148,7 +148,7 @@ range_handler(self, num)
     insures that the user must enter a number in the range of the questions.
 
 ```
-bash
+
 ### Opportunity for growth
 - **Add levels for each subject to test the examinee level in certain subject.**
 - **Add subsubjects to acknowledge the Quiz taker's weaknesses.**
